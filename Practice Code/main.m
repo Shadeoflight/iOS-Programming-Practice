@@ -1,5 +1,4 @@
 
-
 /* The Foundation/Foundation.h is similar to
     the iostream of C++ in its usage for general
     purpose applications */
